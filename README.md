@@ -1,4 +1,4 @@
-# FindBugs---An-Open-Source-Static-Code-analyser-tool-for-Java
+#### FindBugs---An-Open-Source-Static-Code-analyser-tool-for-Java
 
 LIBRARY
 
@@ -16,13 +16,13 @@ Static code Analysis
 
 SonarQube 
 
-# FILE UPLOAP  
+#### FILE UPLOAP  
 
 RCF 3507 ICAP JSCAPE MFT SERVER 10.2
 
 Apache as malware scanning proxy 
 
-# reading file
+#### reading file
 
 Reading a file, file name/path should not comes from user input, 
 
@@ -30,13 +30,13 @@ If it is comes from user input should be validated with whitelisted resource.
 
 Dast, SonarQube
 
-# Error handling 
+#### Error handling 
 
 Eh should fail securly, rendering unless error is encountered
 
 DAST, Manual ,Abuse Testing 
 
-# FILE upload 
+#### FILE upload 
 
 Store file in database
 
@@ -54,7 +54,7 @@ Replace special character of filename
 
 DAST, MANUAL TEST, ABUSE TEST
 
-# CONTENT TYPES 
+#### CONTENT TYPES 
 
 Content type header for the response being sent
 
@@ -64,13 +64,13 @@ html, JavaScript, css,images..
 
 DAST 
 
-## Restrict HTTP methods
+#### Restrict HTTP methods
 
 App should reposnd to valid use cases of Http methods 
 
 GET,POST,OPTIONS,HEAD
 
-## XML SECURITY
+#### XML SECURITY
 
 NO use of external entries 
 No use of recursion 
