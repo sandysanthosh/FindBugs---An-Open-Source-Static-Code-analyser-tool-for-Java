@@ -64,3 +64,28 @@ html, JavaScript, css,images..
 
 DAST 
 
+## Restrict HTTP methods
+
+App should reposnd to valid use cases of Http methods 
+
+GET,POST,OPTIONS,HEAD
+
+## XML SECURITY
+
+NO use of external entries 
+No use of recursion 
+NO Use of xpath
+No use of DTDs
+Whitelisting and sanitizations of input
+
+
+### content type
+### cache control 
+### access control allow origin 
+### content security policy
+### x-frame options
+### xss protection
+### strict transport security
+### download options security
+
+
